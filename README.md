@@ -63,4 +63,4 @@ val stack = listOf(
 )
 ```
 
-📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/adielwesley) | adielwes@email.com
+📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/adielwesley) | adielwes@gmail.com
