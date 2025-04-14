@@ -58,6 +58,9 @@ val stack = listOf(
   // Dev Tools
   "Android Studio", "ADB", "Lint", "Git", "CI/CD",
 
+  // AI
+  "TensorFlow Lite", "Google MLKit", "Gemini"
+
   // Design & PM
   "Figma", "Jira"
 )
