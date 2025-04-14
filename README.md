@@ -17,7 +17,7 @@ I'm passionate about creating products that truly make sense for people — comb
 ### 🚀 What I'm focusing on
 
 - 🤖 Exploring **AI integration in mobile apps**
-- 🔧 Continuous learning on **Clean Architecture**, **Domain-Driven Design**, and **Jetpack Compose**
+- 🔧 Continuous learning on **Clean Architecture** and **Jetpack Compose**
 
 ---
 
