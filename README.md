@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adiel Wesley!</h1>
 
 <p align="center">
-  Android Developer
+  Android Developer | AI Research Explorer
 </p>
 
 ---
