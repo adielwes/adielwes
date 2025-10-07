@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About me
 
-I'm an Android developer with over 5 years of experience building mobile solutions focused on performance, scalability, and user experience. I've worked as a tech lead on challenging projects.
+I'm an Android developer with over 5 years of experience building mobile solutions focused on performance, scalability, and user experience. I worked as a tech lead on challenging projects.
 
 ### 📫 Let's connect?
 
